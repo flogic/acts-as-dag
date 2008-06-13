@@ -1,6 +1,5 @@
 = acts_as_dag
 
-
 Support for directed acyclic graphs in ActiveRecord.
 
 TODO: 
